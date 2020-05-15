@@ -1,6 +1,6 @@
 # MountainCar
 
-## rl_glue .py and agent .py from OpenAI: necessary "default notebooks" for this project
+## RLGlue.py and agent.py from OpenAI: necessary "default notebooks" for this project
 The project is for an under powered car to make it to the top of the hill:
 ![](https://camo.githubusercontent.com/c346664b8e3c0b4839656b84620f59676e783bd1/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f312f31382f4d6361722e706e67)
 
